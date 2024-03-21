@@ -1,0 +1,44 @@
+.banner {
+  border-radius: 24px;
+  background: linear-gradient(
+      0deg,
+      rgba(21, 11, 43, 0.9),
+      rgba(21, 11, 43, 0) 100%
+    ),
+    url("../assets/Group 5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 5rem 10rem;
+}
+.banner > h1 {
+  color: rgb(255, 255, 255);
+  font-family: Lexend;
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 76px;
+  text-align: center;
+}
+
+.banner > p {
+  color: rgb(255, 255, 255);
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+}
+
+@media (max-width: 479px) {
+  .banner {
+    padding: 3rem 2rem;
+    background-position: bottom;
+  }
+  .banner > h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: unset;
+  }
+  .banner > p {
+    font-size: 16px;
+  }
+}

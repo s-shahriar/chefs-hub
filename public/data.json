@@ -1,0 +1,86 @@
+[
+  {
+    "recipe_image": "https://www.recipetineats.com/wp-content/uploads/2021/08/Spaghetti-Puttanesca_64-SQ.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Pasta Puttanesca",
+    "short_description": "A simple and flavorful Italian dish with tomatoes, olives, and capers.",
+    "ingredients": [
+      "400g dried spaghetti",
+      "4 tablespoons olive oil",
+      "4 cloves garlic, thinly sliced"
+    ],
+    "preparing_time": "20 min",
+    "calories": "400 calorie",
+    "img_link": "https://images.foodandwine.com/recipes/images/fw190120_pasta-puttanesca_1600.jpg"
+  },
+  {
+    "recipe_image": "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_1540,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Foldelpaso%2Foldelpaso-au%2Foepp%2Frecipes%2Fnew-images%2Fcrunchy-rainbow-chicken-fajitas%2Fcrunchy-rainbow-chicken-fajitas-hero.jpg%3Fw%3D800%26rev%3D8c4276dfb9084c458c05494d1dc54d4d%201540w",
+    "recipe_id": 2,
+    "recipe_name": "Chicken Fajitas",
+    "short_description": "A Tex-Mex classic with marinated chicken, peppers, and onions.",
+    "ingredients": [
+      "1kg boneless, chicken breasts",
+      "1 tablespoon olive oil",
+      "1 red onion, thinly sliced"
+    ],
+    "preparing_time": "30 min",
+    "calories": "450 calorie",
+    "img_link": "https://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/styles/recipe_image_620_wide/public/api/recipe/353877/chicken-fajitas.jpg"
+  },
+  {
+    "recipe_image": "https://mediavine-res.cloudinary.com/image/upload/s--d1kV2GTY--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1577745302/mnoeqlhzd8yy4j3gaewt.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Cheesy Taco Pasta",
+    "short_description": "A quick and easy weeknight meal with ground beef, taco seasoning, and cheese.",
+    "ingredients": [
+      "500g ground beef",
+      "1 medium onion, chopped",
+      "1 green pepper, chopped"
+    ],
+    "preparing_time": "30 min",
+    "calories": "500 calorie",
+    "img_link": "https://www.budgetbytes.com/wp-content/uploads/2019/08/one-pot-cheesy-taco-pasta.jpg"
+  },
+  {
+    "recipe_image": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Shrimp Scampi Pasta",
+    "short_description": "A light and flavorful dish with shrimp, garlic, lemon, and butter.",
+    "ingredients": [
+      "450g dried linguine",
+      "4 tablespoons olive oil",
+      "4 cloves garlic, minced"
+    ],
+    "preparing_time": "20 min",
+    "calories": "500 calorie",
+    "img_link": "https://www.inspiredtaste.net/wp-content/uploads/2020/02/Shrimp-Scampi-Pasta-1200x675.jpg"
+  },
+  {
+    "recipe_image": "https://www.culinaryhill.com/wp-content/uploads/2023/07/Vegetarian-Stuffed-Peppers-Culinary-Hill-1200x800-.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Vegetarian Stuffed Peppers",
+    "short_description": "A colorful and filling vegetarian meal with rice, beans, and vegetables.",
+    "ingredients": [
+      "4 bell peppers, any color",
+      "1 tablespoon olive oil",
+      "1 medium onion, chopped"
+    ],
+    "preparing_time": "45 min",
+    "calories": "400 calorie",
+    "img_link": "https://www.halfbakedharvest.com/wp-content/uploads/2019/02/vegetarian-stuffed-peppers.jpg"
+  },
+  {
+    "recipe_image": "https://www.mylatinatable.com/wp-content/uploads/2019/05/Smoked-Salmon-4.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Lemon Garlic Salmon",
+    "short_description": "A simple and healthy sheet-pan meal with salmon, asparagus, lemon, and garlic.",
+    "ingredients": [
+      "4 salmon fillets",
+      "1 tablespoon olive oil",
+      "1 lemon, sliced"
+    ],
+    "preparing_time": "20 min",
+    "calories": "450 calorie",
+    "img_link": "https://www.cookieandkate.com/wp-content/uploads/2020/02/Lemon-Garlic-Salmon-asparagus-Sheet-Pan-Dinner-500x330.jpg"
+  }
+]

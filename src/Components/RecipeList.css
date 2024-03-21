@@ -1,0 +1,43 @@
+.food {
+  border-radius: 16px;
+}
+
+.food img {
+  width: 331px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin: 10px auto;
+}
+
+.food h1 {
+  color: rgb(40, 40, 40);
+  font-family: Lexend;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.food p {
+  color: rgb(135, 135, 135);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.food hr {
+  border: 1px solid rgba(40, 40, 40, 0.1);
+}
+
+.food li {
+  color: rgb(135, 135, 135);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-align: left;
+}

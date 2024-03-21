@@ -1,0 +1,33 @@
+.want-cook > h1 {
+  color: rgb(40, 40, 40);
+  font-family: Lexend;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.want-cook hr {
+  margin: 5px auto;
+  width: 70%;
+  border: 1px solid rgba(40, 40, 40, 0.15);
+}
+
+.calc > td {
+  text-align: right;
+  font-weight: 700;
+  background-color: white;
+}
+
+@media (max-width: 479px) {
+  .calc > td {
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .want-cook hr {
+    width: 100%;
+  }
+}
