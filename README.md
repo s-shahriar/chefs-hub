@@ -1,4 +1,4 @@
-# React + Vite
+# Chef's Hub
 
 Live link of this project: https://chef-hub-shs.netlify.app
 
